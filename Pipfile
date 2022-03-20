@@ -9,6 +9,8 @@ tensorflow-gpu = "*"
 tensorflowjs = "*"
 matplotlib = "*"
 keras = "*"
+Pillow = "*"
+numpy = "*"
 
 [dev-packages]
 
