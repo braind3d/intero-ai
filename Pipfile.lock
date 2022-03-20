@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8071e5fd79e37dce701b1186cba6af7d091287660096cc64351d3708caf906e6"
+            "sha256": "241ef2c036a92589e740792f391ee8ae0d6fa0a2c78999097b44f9bd7e2d8ce0"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -1171,6 +1171,23 @@
             ],
             "version": "==1.8.1"
         },
+        "tensorflow": {
+            "hashes": [
+                "sha256:05fb161c6b2a6c4b8317a703a0a6d7f7aa6b5e3c6ea31bbc4f44ef96b89c3344",
+                "sha256:291fa84f1022914580810ad76732fb254e44a8a609128e1c58873a12b2f81559",
+                "sha256:2a520538e77a52fb428acb05e300c960844fd1d2c3918ca8ca14127edba6f83b",
+                "sha256:52f225fecc688281b3ae2cba2b52d3ed6215ed4a3ffb686b9cfd09885ca65563",
+                "sha256:78c3ba2e0c952aa9eb388200f1923e40287f9357492a464188ca3043e35edc52",
+                "sha256:8489b4f1771e146f752b0eaeb57acf183bd07357e4550464e7dff18b3b656b5d",
+                "sha256:9d91a989e5455ae713c03fd7236071ab3f232ad8ff2831f2658072933546091f",
+                "sha256:b360c13b3e58b9a5c0780cbdb6b549eea73f620275fa203f8508fe418ae02735",
+                "sha256:b7170844ae6b048d82a9d7a61b2fa627f2e16cb829267bf0ce4b3a0de0a61054",
+                "sha256:da38d4043185267e7316ae5dc98d18e89c8af4170859f64798e7a3607fd606e3",
+                "sha256:dd0f9f113ebc21b73fcd349db1629e187b8686395b8146d100eb1706a943bbc0",
+                "sha256:fa4a723368d5f748b6f4ec305cf7c26b98e4a6a8c2ce1425f8ae10383a37bcfc"
+            ],
+            "version": "==2.8.0"
+        },
         "tensorflow-gpu": {
             "hashes": [
                 "sha256:1806ced7e76b86cab4c349078d1ee8697025b4cfcc0cf49884d210fa21957c1a",
@@ -1184,6 +1201,12 @@
             ],
             "index": "pypi",
             "version": "==2.8.0"
+        },
+        "tensorflow-hub": {
+            "hashes": [
+                "sha256:822fe5f7338c95efcc3a534011c6689e4309ba2459def87194179c4de8a6e1fc"
+            ],
+            "version": "==0.12.0"
         },
         "tensorflow-io-gcs-filesystem": {
             "hashes": [
@@ -1206,6 +1229,14 @@
             ],
             "markers": "python_version < '3.11' and python_version >= '3.7'",
             "version": "==0.24.0"
+        },
+        "tensorflowjs": {
+            "hashes": [
+                "sha256:1acdef25ee3d25f2b960f9e4d0461758c9fa257efffc63f97d7c3753ab4d60c2",
+                "sha256:34344f54401d9598955da136bc06d984e26b6cd1f1a694da29998b2706accf91"
+            ],
+            "index": "pypi",
+            "version": "==3.14.0"
         },
         "termcolor": {
             "hashes": [
