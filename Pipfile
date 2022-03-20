@@ -8,6 +8,7 @@ jupyter = "*"
 tensorflow-gpu = "*"
 matplotlib = "*"
 keras = "*"
+tensorflowjs = "*"
 
 [dev-packages]
 
